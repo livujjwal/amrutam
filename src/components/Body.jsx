@@ -16,7 +16,7 @@ const Body = () => {
         <Experience />
         <Reviews />
       </div>
-      <div className="w-[40%]">
+      <div className="w-[50%]">
         <Appointment />
       </div>
     </div>
